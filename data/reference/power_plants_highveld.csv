@@ -1,0 +1,17 @@
+name,fuel,capacity_mw,latitude,longitude,gppd_idnr,geolocation_source
+Kendal power station,Coal,4116.0,-26.088,28.9689,WRI1000125,WRI
+Majuba power station,Coal,4110.0,-27.0955,29.7706,WRI1000129,WRI
+Lethabo power station,Coal,3708.0,-26.7403,27.975,WRI1000128,WRI
+Tutuka power station,Coal,3654.0,-26.7767,29.3527,WRI1000135,WRI
+Matla power station,Coal,3600.0,-26.2804,29.1423,WRI1000131,WRI
+Duvha power station,Coal,3600.0,-25.9595,29.3409,WRI1000119,WRI
+Kriel power station,Coal,3000.0,-26.254,29.1801,WRI1000127,WRI
+Arnot power station,Coal,2352.0,-25.9444,29.7917,WRI1000117,WRI
+Hendrina power station,Coal,2000.0,-26.0314,29.6014,WRI1000124,WRI
+Camden power station,Coal,1600.0,-26.6201,30.0911,WRI1000118,WRI
+Grootvlei power station,Coal,1190.0,-26.7695,28.4995,WRI1000123,WRI
+Komati Power Station,Coal,1000.0,-26.0899,29.4725,WRI1000126,WRI
+Kusile Power Station,Coal,794.0,-25.9194,28.9156,WRI1061281,WRI
+Kelvin power station,Coal,600.0,-26.1158,28.194,WRI1075860,GCPT
+Rooiwal power station,Coal,300.0,-25.555,28.2376,WRI1075862,GCPT
+Pretoria West power station,Coal,180.0,-25.7584,28.1467,WRI1075861,GCPT
