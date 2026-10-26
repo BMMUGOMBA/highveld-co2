@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+.pytest_cache/
+
+# large or regenerable data
+data/raw/oco2/
+data/raw/synthetic/
+data/processed/*
+!data/processed/.gitkeep
+
+# synthetic demo output must never be committed as if it were a result
+results_demo/

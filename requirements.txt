@@ -1,0 +1,22 @@
+numpy>=1.26
+pandas>=2.0
+scipy>=1.11
+scikit-learn>=1.4
+netCDF4>=1.6
+pyproj>=3.6
+geopandas>=0.14
+shapely>=2.0
+matplotlib>=3.8
+folium>=0.16
+sqlalchemy>=2.0
+geoalchemy2>=0.14
+psycopg2-binary>=2.9
+python-dotenv>=1.0
+earthaccess>=0.9
+requests>=2.31
+# development / teaching
+pytest>=8.0
+jupyter>=1.0
+nbformat>=5.9
+nbconvert>=7.0
+ipykernel>=6.0
