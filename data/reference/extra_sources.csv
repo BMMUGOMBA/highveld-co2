@@ -1,0 +1,2 @@
+name,fuel,capacity_mw,latitude,longitude,gppd_idnr,geolocation_source,note
+Secunda Synfuels (Sasol),Coal-to-liquids,,-26.52,29.20,,manual-approximate,"Not a power plant, so not in the power plant database. A very large CO2 point source. Coordinates are approximate (several km): verify against satellite imagery before relying on them."
